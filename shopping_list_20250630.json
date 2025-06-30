@@ -26281,5 +26281,26 @@
     ],
     "id": 1000,
     "anbruch": ""
+  },
+  {
+    "id": 100001,
+    "titel": "Zitrone",
+    "lieferant": "GoldeneErnte AG",
+    "kategorie": "Obst",
+    "varianten": [
+      { 
+        "einheit": "g", 
+        "inhalt": 100, 
+        "preis": 1.29, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "kg", 
+        "inhalt": 2, 
+        "preis": 2.70, 
+        "währung": "euro" 
+      }
+    ],
+    "anbruch": ""
   }
 ]
