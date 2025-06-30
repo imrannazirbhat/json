@@ -26883,5 +26883,38 @@
     ],
     "id": 2000,
     "anbruch": ""
+  },
+  {
+    "id": 100002,
+    "titel": "Kiwi",
+    "lieferant": "GoldeneErnte AG",
+    "kategorie": "Obst",
+    "varianten": [
+      { 
+        "einheit": "g", 
+        "inhalt": 750, 
+        "preis": 4.69, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "g", 
+        "inhalt": 100, 
+        "preis": 3.04, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "kg", 
+        "inhalt": 5, 
+        "preis": 4.76, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "kg", 
+        "inhalt": 5, 
+        "preis": 4.24, 
+        "währung": "euro" 
+      }
+    ],
+    "anbruch": ""
   }
 ]
