@@ -26372,5 +26372,32 @@
     ],
     "id": 3000,
     "anbruch": ""
+  },
+  {
+    "id": 100003,
+    "titel": "Pilz",
+    "lieferant": "ÖkoLebensmittel GmbH",
+    "kategorie": "Gemüse",
+    "varianten": [
+      { 
+        "einheit": "g", 
+        "inhalt": 750, 
+        "preis": 2.43, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "kg", 
+        "inhalt": 1, 
+        "preis": 1.02, 
+        "währung": "euro" 
+      },
+      { 
+        "einheit": "kg", 
+        "inhalt": 1, 
+        "preis": 1.07, 
+        "währung": "euro" 
+      }
+    ],
+    "anbruch": ""
   }
 ]
